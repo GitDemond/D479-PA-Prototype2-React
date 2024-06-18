@@ -1,0 +1,327 @@
+.entertainment-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.entertainment-entertainment {
+  gap: 53px;
+  flex: 0;
+  width: 150%;
+  height: 100%;
+  display: flex;
+  padding: 0 23px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.entertainment-navigation {
+  gap: 259px;
+  width: 1200px;
+  height: 131px;
+  display: flex;
+  padding: 0 37px;
+  overflow: hidden;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.entertainment-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 96px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Island Moments;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.entertainment-items {
+  gap: 48px;
+  width: 653px;
+  height: 81px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.entertainment-text02 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.entertainment-text04 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.entertainment-text06 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.entertainment-text08 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Black;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.entertainment-text10 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.entertainment-text12 {
+  color: rgba(0, 0, 0, 1);
+  width: 413px;
+  height: auto;
+  font-size: 48px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.entertainment-frame1321316148 {
+  gap: 10px;
+  width: 600px;
+  height: 400px;
+  display: flex;
+  overflow: hidden;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.entertainment-beachphoto26610y0s300h3 {
+  width: 595px;
+  height: 396px;
+}
+.entertainment-text14 {
+  color: rgba(0, 0, 0, 1);
+  width: 617px;
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.entertainment-frame1321316149 {
+  gap: 10px;
+  width: 600px;
+  height: 400.2762451171875px;
+  display: flex;
+  overflow: hidden;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.entertainment-rainforest2 {
+  width: 600px;
+  height: 400px;
+}
+.entertainment-text18 {
+  color: rgba(0, 0, 0, 1);
+  width: 591px;
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.entertainment-navigation-footer {
+  gap: 56px;
+  width: 1238px;
+  height: 117px;
+  display: flex;
+  padding: 1px 80px;
+  overflow: hidden;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.entertainment-divider {
+  width: 1280px;
+  height: 1px;
+}
+.entertainment-text20 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.entertainment-social-icons {
+  gap: 8px;
+  width: 184px;
+  height: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.entertainment-buttons-icon {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 8px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 4px;
+  justify-content: space-between;
+}
+.entertainment-icon {
+  gap: 10px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 2px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.entertainment-icon1 {
+  width: 20px;
+  height: 20px;
+}
+.entertainment-buttons-icon1 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 8px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 4px;
+  justify-content: space-between;
+}
+.entertainment-icon2 {
+  gap: 10px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 3px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.entertainment-icon3 {
+  width: 18px;
+  height: 18px;
+}
+.entertainment-buttons-icon2 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 8px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 4px;
+  justify-content: space-between;
+}
+.entertainment-icon4 {
+  gap: 10px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 5px 2px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.entertainment-icon5 {
+  width: 20px;
+  height: 14px;
+}
+.entertainment-buttons-icon3 {
+  gap: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  padding: 8px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 4px;
+  justify-content: space-between;
+}
+.entertainment-icon6 {
+  gap: 10px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 2px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.entertainment-icon7 {
+  width: 20px;
+  height: 20px;
+}
