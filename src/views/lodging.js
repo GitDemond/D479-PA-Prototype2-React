@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 import { Helmet } from 'react-helmet'
 
@@ -16,21 +17,21 @@ const Lodging = (props) => {
             <span>Taniti</span>
           </span>
           <div className="lodging-items">
-            <span className="lodging-text02">
+            <Link to="/" className="lodging-text02">
               <span>Homepage</span>
-            </span>
-            <span className="lodging-text04">
+            </Link>
+            <Link to="/lodging" className="lodging-text04">
               <span>Lodging</span>
-            </span>
-            <span className="lodging-text06">
+            </Link>
+            <Link to="/transportation" className="lodging-text06">
               <span>Transportation</span>
-            </span>
-            <span className="lodging-text08">
+            </Link>
+            <Link to="/entertainment" className="lodging-text08">
               <span>Entertainment</span>
-            </span>
-            <span className="lodging-text10">
+            </Link>
+            <Link to="/information" className="lodging-text10">
               <span>Information</span>
-            </span>
+            </Link>
           </div>
         </div>
         <span className="lodging-text12">

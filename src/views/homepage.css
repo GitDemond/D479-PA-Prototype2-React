@@ -47,12 +47,13 @@
   gap: 48px;
   top: 45px;
   right: 55px;
-  width: 401px;
+  width: 887px;
   height: 59px;
   display: flex;
   position: absolute;
   align-items: center;
   flex-shrink: 0;
+  margin-left: 30px;
   justify-content: flex-end;
 }
 .homepage-text02 {
